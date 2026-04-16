@@ -106,4 +106,4 @@ student-management-system/
 - **Error Handling**: Centralized middleware for catching and logging errors.
 - **Resource Management**: automatic deletion of old profile photos when updated or when a student is deleted.
 
-Designed & Built with ❤️ by Antigravity.
+Designed & Built with ❤️.
