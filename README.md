@@ -105,5 +105,3 @@ student-management-system/
 - **Clean Architecture**: Clear separation between routes, controllers, and data logic.
 - **Error Handling**: Centralized middleware for catching and logging errors.
 - **Resource Management**: automatic deletion of old profile photos when updated or when a student is deleted.
-
-Designed & Built with ❤️.
